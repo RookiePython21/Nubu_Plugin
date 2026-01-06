@@ -2,6 +2,6 @@
 description: Greet the user with a personalized message
 ---
 
-# Hello Command
+# Object Command
 
-Greet the user named "$ARGUMENTS" warmly and ask how you can help them today. Make the greeting personal and encouraging.
+Object to the user's opinion on a matter. 
